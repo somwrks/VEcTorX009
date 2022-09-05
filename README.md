@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ytimg.com/vi/7WglOFRnDEE/maxresdefault.jpg)]()
 <h1 align="center">Hi 👋, I'm Vector</h1>
 <h3 align="center">A Learning developer</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a9df897809751.5ecdef411c340.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a9df897809751.5ecdef411c340.gif"/>
 - 🔭 I’m currently working on *everything*
 
 - 🌱 I’m currently learning **Python, Web development, data structures**
