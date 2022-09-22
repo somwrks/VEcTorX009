@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Web development, data structures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VEcTorX009](https://github.com/VEcTorX009)
+- 👨‍💻 All of my projects are available at [https://github.com/VEcTorX009?tab=repositories](https://github.com/VEcTorX009?tab=repositories)
 
 - 💬 Ask me about Java
 
