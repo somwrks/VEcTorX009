@@ -2,19 +2,16 @@
 <h1 align="center">Hi 👋, I'm Vector</h1>
 <h3 align="center">A Learning developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a9df897809751.5ecdef411c340.gif"/>
-- 🔭 I’m currently working on *everything*
+<br>
+- 🔭 I’m currently working on Front End Development
 
-- 🌱 I’m currently learning **Python, Web development, data structures**
+- 🌱 I’m currently learning **Python, Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VEcTorX009?tab=repositories](https://github.com/VEcTorX009?tab=repositories)
 
-- 💬 Ask me about Java
-
 - 📫 How to reach me **vectorx009@gmail.com**
 
-- 📄 Know about my experiences (in progress)
-
-- ⚡ Fun fact **I don't care**
+- 📄 Website: [in development]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
