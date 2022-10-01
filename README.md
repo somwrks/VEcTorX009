@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Python, Web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VEcTorX009?tab=repositories](https://github.com/VEcTorX009?tab=repositories)
-
 - 📫 How to reach me **vectorx009@gmail.com**
 
-- 📄 Website: [in development]
+- 📄 Website: https://www.thevector.xyz/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
