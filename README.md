@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vectorx009@gmail.com**
 
-- 📄 Website: https://www.thevector.xyz/
+- 📄 Website: https://somdev.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
