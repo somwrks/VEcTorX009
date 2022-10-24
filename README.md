@@ -1,21 +1,44 @@
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Som</a></h1>
+<h3 align="center">A Learning Developer</h3>
 
-<h1 align="center">Hi 👋, I'm Som</h1>
-<h3 align="center">A Learning developer</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a9df897809751.5ecdef411c340.gif"/>
-<br>
-- 🔭 I’m currently working on Front End Development
+![](https://komarev.com/ghpvc/?username=VEcTorX009&label=PROFILE+VIEWS)
 
-- 🌱 I’m currently learning **Python, Web development**
+<!--<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
-- 📫 How to reach me **SomDeveloper.queries@gmail.com**
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a9df897809751.5ecdef411c340.gif">
+</a>
 
-- 📄 Website: https://www.thevector.xyz
+- 🔭 I’m currently looking for work.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dc_vector_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dc_vector_" height="30" width="40" /></a>
-<a href="https://discord.gg/Vector#1881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vector#1881" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently Working on Front-end Website Projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img  style = "text-decoration:none" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" style = "text-decoration:none" target="_blank" rel="noreferrer"> <img  style = "text-decoration:none" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a style = "text-decoration:none" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img style = "text-decoration:none"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a style = "text-decoration:none" href="https://www.java.com" target="_blank" rel="noreferrer"> <img style = "text-decoration:none" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a style = "text-decoration:none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img style = "text-decoration:none" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a style = "text-decoration:none" href="https://www.python.org" target="_blank" rel="noreferrer"> <img style = "text-decoration:none" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning Python and React
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **somdeveloper.queries@gmail.com**
+
+- 📄 Know about my experiences <a href="https://www.thevector.xyz/" target="blank">here</a>
+<br/>
+
+
+
+
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
+ <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/som-s-647318222/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/som009_">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/home">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://www.thevector.xyz/">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+
