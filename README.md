@@ -14,7 +14,7 @@ Som</a></h1>
 
 - 🌱 I’m currently Working on Front-end Website Projects.
 
-- 🌱 I’m currently learning Python and React
+- ⚒️ I’m currently learning Python and React
 
 - 💬 Ask me about **Java**
 
