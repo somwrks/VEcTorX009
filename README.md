@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Web development**
 
-- 📫 How to reach me **vectorx009@gmail.com**
+- 📫 How to reach me **SomDeveloper.queries@gmail.com**
 
 - 📄 Website: https://www.thevector.xyz
 
