@@ -10,13 +10,15 @@ Som</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a9df897809751.5ecdef411c340.gif">
 </a>
 
-- 🔭 I’m currently looking for work.
+- 🔭 I’m currently doing FrontEnd Development. 
 
-- 🌱 I’m currently Working on Front-end Website Projects.
+- 🌱 I’m recently working on Front-end Website Projects.
 
-- ⚒️ I’m currently learning Python and React
+- ⚒️ Lately, I've been learning Python and React 
 
 - 💬 Ask me about **Java**
+
+- 👀 Full Stack Development
 
 - 📫 How to reach me **somdeveloper.queries@gmail.com**
 
