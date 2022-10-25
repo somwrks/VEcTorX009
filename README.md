@@ -18,7 +18,7 @@ Som</a></h1>
 
 - 💬 Ask me about **Java**
 
-- 👀 Full Stack Development
+- 👀 Full Stack Developer
 
 - 📫 How to reach me **somdeveloper.queries@gmail.com**
 
