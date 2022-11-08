@@ -14,7 +14,7 @@ Som</a></h1>
 
 - 🌱 I’m recently working on Front-end Website Projects.
 
-- ⚒️ Lately, I've been learning Python and React 
+- ⚒️ Lately, I've been learning **ReactJS** and **Python** 
 
 - 💬 Ask me about **Java**
 
