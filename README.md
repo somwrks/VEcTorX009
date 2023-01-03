@@ -16,7 +16,7 @@ Som</a></h1>
 
 - 🌱 I’m recently working on Freelance website Projects and internship.
 
-- ⚒️ Lately, I've been learning **Frameworks** and **Databases** 
+- ⚒️ Lately, I've been learning **Machine Learning (AI)** and **Full Stack technologies** 
 
 - 📫 How to reach me **somdeveloper.queries@gmail.com**
 
