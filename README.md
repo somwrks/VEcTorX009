@@ -7,7 +7,7 @@ Som</a></h1>
 <!--<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="350" width="400" alt="GIF" src="https://64.media.tumblr.com/dc9305af16aa9a3c60a9ddf026b00480/b9dd63a3352b14fa-4e/s1280x1920/11f42558b5fa54ce96f2d698a453c97c0a3ff692.gifv">
+  <img align="right" top="500" height="350" width="400" alt="GIF" src="https://64.media.tumblr.com/dc9305af16aa9a3c60a9ddf026b00480/b9dd63a3352b14fa-4e/s1280x1920/11f42558b5fa54ce96f2d698a453c97c0a3ff692.gif">
 </a>
 
 - 👀 Full Stack Developer & Designer
