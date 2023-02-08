@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://thevector.xyz" target="blank">
 Som</a></h1>
-<h3 align="center">A Learning Developer</h3>
+<h3 align="center">Website Developer & Designer</h3>
 
 ![](https://komarev.com/ghpvc/?username=VEcTorX009&label=PROFILE+VIEWS)
 
@@ -9,8 +9,6 @@ Som</a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="350" width="400" alt="GIF" src="https://64.media.tumblr.com/dc9305af16aa9a3c60a9ddf026b00480/b9dd63a3352b14fa-4e/s1280x1920/11f42558b5fa54ce96f2d698a453c97c0a3ff692.gif">
 </a>
-
-- 👀 Full Stack Developer & Designer
 
 - 🔭 I’m currently doing Web development and Artificial Intelligence. 
 
