@@ -12,11 +12,11 @@ Som</a></h1>
 
 - 👀 Full Stack Developer & Designer
 
-- 🔭 I’m currently doing Web development and Machine Learning (AI). 
+- 🔭 I’m currently doing Web development and Artificial Intelligence. 
 
 - 🌱 I’m recently working on Freelance website Projects and internship.
 
-- ⚒️ Lately, I've been learning **Machine Learning (AI)** and **Full Stack technologies** 
+- ⚒️ Lately, I've been learning **Artifical Intelligence** and **Full Stack technologies** 
 
 - 📫 How to reach me **somdeveloper.queries@gmail.com**
 
