@@ -12,7 +12,7 @@ Som</a></h1>
 
 - 🔭 I’m currently doing Web development and Artificial Intelligence. 
 
-- 🌱 I’m recently working on Freelance website Projects and internship.
+- 🌱 I’m recently working with some **Startup Projects**.
 
 - ⚒️ Lately, I've been learning **Artifical Intelligence** and **Full Stack technologies** 
 
