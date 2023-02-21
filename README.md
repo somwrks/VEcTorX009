@@ -10,7 +10,7 @@ Som</a></h1>
   <img align="right" top="500" height="350" width="400" alt="GIF" src="https://64.media.tumblr.com/dc9305af16aa9a3c60a9ddf026b00480/b9dd63a3352b14fa-4e/s1280x1920/11f42558b5fa54ce96f2d698a453c97c0a3ff692.gif">
 </a>
 
-- 🔭 I’m currently doing Web development and Artificial Intelligence. 
+- 🔭 I’m currently doing **Web development and Artificial Intelligence**. 
 
 - 🌱 I’m recently working with some **Startup Projects**.
 
