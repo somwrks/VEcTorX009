@@ -4,7 +4,6 @@ Som</a></h1>
 
 ![](https://komarev.com/ghpvc/?username=VEcTorX009&label=PROFILE+VIEWS)
 
-<!--<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="350" width="400" alt="GIF" src="https://64.media.tumblr.com/dc9305af16aa9a3c60a9ddf026b00480/b9dd63a3352b14fa-4e/s1280x1920/11f42558b5fa54ce96f2d698a453c97c0a3ff692.gif">
@@ -21,7 +20,7 @@ Som</a></h1>
 - 📄 Know about my experiences <a href="https://www.thevector.xyz/" target="blank">here</a>
 <br/>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
@@ -33,8 +32,6 @@ Som</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/som.developer">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/home">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		
-      </div>
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a></div>
 
 
